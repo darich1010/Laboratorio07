@@ -1,5 +1,5 @@
 # Entorno virtual
-my_env/
+myenv/
 
 # Archivos de Python
 *.pyc
