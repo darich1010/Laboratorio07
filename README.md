@@ -61,10 +61,11 @@ El funcionamiento completo del sistema fue validado previamente en entorno local
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
+**Diego Aristides Cervantes Apaza**  
 **Dario Rafael Cornejo Hurtado**  
-Estudiante de Ingeniería de Sistemas  
+
 Curso: Programación Web - 2025-A  
 
 
