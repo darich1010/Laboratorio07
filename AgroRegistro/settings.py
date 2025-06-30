@@ -86,10 +86,15 @@ WSGI_APPLICATION = 'AgroRegistro.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'agroregistro_db',
+        'USER': 'agroregistro_db_user',
+        'PASSWORD': 'TU_PASSWORD_AQUÍ',  # Copia el que Render te da
+        'HOST': 'dpg-d1guu6mmcj7s73d8olqg-a',
+        'PORT': '5432',
     }
 }
+
 
 
 # Password validation
