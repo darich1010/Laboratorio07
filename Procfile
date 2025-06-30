@@ -1,1 +1,1 @@
-web: gunicorn AgroRegistro.wsgi
+web: bash -c "python manage.py migrate && gunicorn AgroRegistro.wsgi"
