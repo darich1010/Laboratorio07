@@ -89,11 +89,13 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'agroregistro_db',
         'USER': 'agroregistro_db_user',
-        'PASSWORD': 'TU_PASSWORD_AQUÍ',  # Copia el que Render te da
-        'HOST': 'dpg-d1guu6mmcj7s73d8olqg-a',
+        'PASSWORD': 'N8HiSf9e4MeT8UbREDzGJL5Si0UFuLdt',
+        'HOST': 'dpg-d1guu6mmcj7s73d8olqg-a.oregon-postgres.render.com',
         'PORT': '5432',
     }
 }
+
+
 
 
 
